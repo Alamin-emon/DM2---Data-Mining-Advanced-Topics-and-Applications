@@ -1,0 +1,11 @@
+Feature,Mean |SHAP|
+Physical-Height,0.25742468
+CGAS-CGAS_Score,0.23025748
+PreInt_EduHx-computerinternet_hoursday,0.22356865
+SDS-SDS_Total_T,0.15424763
+SDS-SDS_Total_Raw,0.15012035
+FGC-FGC_CU,0.13843703
+Basic_Demos-Sex,0.119824916
+Basic_Demos-Age,0.09683669
+BIA-BIA_FFMI,0.08058399
+Physical-Weight,0.07702096
