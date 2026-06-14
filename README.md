@@ -21,7 +21,7 @@ DM2_project/
 │   └── 03_time_series.ipynb              ← Module 3: TS clustering + classification
 │
 ├── outputs/                              ← auto-created; all CSVs, figures, models saved here
-│
+├── DM2_Report.docx
 └── README.md
 ```
 
